@@ -6,5 +6,8 @@ This is a ongoing project!
 
 
 # Data Flow Diagram DFD
-
+# Level 1
 ![Untitled Diagram drawio(1)](https://github.com/user-attachments/assets/ffb5b0fe-f59b-4264-92e4-bc387e7d1d3a)
+
+# Level 2
+![DFD Level2 drawio](https://github.com/user-attachments/assets/d58f6fa4-568f-45b1-bd47-7b0826388140)
